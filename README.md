@@ -4,7 +4,7 @@ A fully functional two-player Chess Game built with **Java** and **JavaFX**. Thi
 
 ---
 
-## 🎮 Features
+## Features
 
 - **Local Two-Player Mode:** Challenge a friend on the same machine.
 - **Move Highlighting:** Legal moves are visually highlighted when a piece is selected.
@@ -15,7 +15,7 @@ A fully functional two-player Chess Game built with **Java** and **JavaFX**. Thi
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -24,7 +24,7 @@ A fully functional two-player Chess Game built with **Java** and **JavaFX**. Thi
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Java JDK 11 or higher
@@ -39,7 +39,7 @@ A fully functional two-player Chess Game built with **Java** and **JavaFX**. Thi
 
 ---
 
-## 🕹️ How to Play
+## How to Play
 
 1. **Launch the game** and the board will be set up automatically.
 2. **Select a piece** by clicking on it — valid destination squares will be highlighted.
@@ -49,28 +49,24 @@ A fully functional two-player Chess Game built with **Java** and **JavaFX**. Thi
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-| First Move | Highlighted Moves |
-|-----------|------------------|
-| ![First Move](screenshots/FirstMove.png) | ![Highlight Moves](screenshots/HighlightMoves.png) |
-
-| Illegal Move | Check Alert |
+| Whole Game Scene | Legal Moves |
 |-------------|------------|
-| ![Illegal Move](screenshots/IllegalMove.png) | ![Check Alert](screenshots/CheckAlert.png) |
+| ![Whole Game Scene](preview/ChessGameView.png) | ![Legal Moves](preview/LegalMoves.png)
 
-| Game Scene | Checkmate |
+| Checkmate | Check Alert |
 |-----------|----------|
-| ![Game Scene](screenshots/GameScene.png) | ![Game Over](screenshots/CheckMate.png) |
+| ![Game Over](preview/CheckMate.png) |![Check Alert](preview/CheckAlert.png) |
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Whether it's fixing a bug, improving the UI, or adding new features like an AI opponent — feel free to fork the repo and open a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
